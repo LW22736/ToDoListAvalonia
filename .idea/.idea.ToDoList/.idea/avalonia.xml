@@ -3,7 +3,9 @@
   <component name="AvaloniaProject">
     <option name="projectPerEditor">
       <map>
+        <entry key="ToDoList/Views/AddItemView.axaml" value="ToDoList/ToDoList.csproj" />
         <entry key="ToDoList/Views/MainWindow.axaml" value="ToDoList/ToDoList.csproj" />
+        <entry key="ToDoList/Views/ToDoListView.axaml" value="ToDoList/ToDoList.csproj" />
       </map>
     </option>
   </component>
